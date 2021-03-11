@@ -14,5 +14,4 @@ use `wmic diskdrive/memorychip/baseboard get serialnumber` to double check the n
 ![ss1](https://user-images.githubusercontent.com/51852197/110731470-5421c200-825d-11eb-8076-0b2b6e4294ce.PNG)
 ![ss2](https://user-images.githubusercontent.com/51852197/110731482-571cb280-825d-11eb-9c4d-50915be3455a.PNG)
 
-
-# for edu purpose only
+note: for edu purpose only
