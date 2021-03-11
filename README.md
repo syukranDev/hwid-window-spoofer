@@ -6,7 +6,7 @@ use `wmic diskdrive/memorychip/baseboard get serialnumber` to double check the n
 
 # future-mod
 currently in seperate files, might combine 'em all later.
-1) spoof memoery serial num, mobo
+1) spoof RAM serial num, mobo
 2) change mac id
 3) change username, pc workgroup etc
 4) dlt traces files for multiple AAA-titles games.
