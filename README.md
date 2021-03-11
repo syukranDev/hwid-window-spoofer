@@ -1,10 +1,11 @@
 # hwid-magic [ONGOING]
 
-`cmd` scripting for spoofing your hdd serial number with random to avoid another series of ban in online games.
+`cmd` scripting for spoofing your hardware-id with random-num to avoid another series of ban in online games.
 
 use `wmic diskdrive/memorychip/baseboard get serialnumber` to double check the new serial num.
 
 # future-mod
+currently in seperate files, might combine 'em all later.
 1) spoof memoery serial num, mobo
 2) change mac id
 3) change username, pc workgroup etc
