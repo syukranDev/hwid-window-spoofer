@@ -1,6 +1,6 @@
 # hwid-magic 
 
-`cmd` scripting for spoofing your hardware-id with random-num to avoid another series of ban in online games.
+`cmd` scripting for spoofing your hardware-id with random-num to avoid another series of ban in online games/network etc.
 
 use `wmic diskdrive/memorychip/baseboard get serialnumber` to double check the new serial num.
 
