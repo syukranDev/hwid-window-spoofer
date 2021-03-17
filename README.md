@@ -15,4 +15,4 @@ currently in seperate files, might combine 'em all later.
 ![ss1](https://user-images.githubusercontent.com/51852197/110731470-5421c200-825d-11eb-8076-0b2b6e4294ce.PNG)
 ![ss2](https://user-images.githubusercontent.com/51852197/110731482-571cb280-825d-11eb-9c4d-50915be3455a.PNG)
 
-note: for edu purpose only, hf.
+note: will include the system file and `mapper` later. this one for your edu purpose only, hf.
