@@ -1,4 +1,4 @@
-# hwid-magic 
+# hwid-window-spoofer (windows only)
 
 `cmd` scripting for spoofing your hardware-id with random-num to avoid another series of ban in online games/network etc.
 
