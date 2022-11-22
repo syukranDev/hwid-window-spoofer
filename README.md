@@ -9,11 +9,10 @@ use `wmic diskdrive/memorychip/baseboard get serialnumber` to double check the n
 2) delete trace files & registry used in games, in this case only game I play included.
 
 # future-mod
-currently in seperate files, might combine 'em all later.
-1) spoof RAM serial num, mobo
-2) change mac id
-3) change username, pc workgroup etc
-4) add more deletion of traces files for AAA-titles games.
+currently in seperate .bat files, might combine 'em all later.
+1) change mac id
+2) change username, pc workgroup etc
+3) add more deletion of traces files for AAA-titles games.
 
 # screenshot
 ![ss1](https://user-images.githubusercontent.com/51852197/110731470-5421c200-825d-11eb-8076-0b2b6e4294ce.PNG)
