@@ -6,7 +6,7 @@ use `wmic diskdrive/memorychip/baseboard get serialnumber` to double check the n
 
 # current features 
 1) re-generate new serial numbers for HDD/SDD, RAM and MOBO baseboard.
-2) delete trace files used in games, in this case only game I play included.
+2) delete trace files & registry used in games, in this case only game I play included.
 
 # future-mod
 currently in seperate files, might combine 'em all later.
