@@ -1,8 +1,10 @@
 # hwid-window-spoofer (windows only)
 
-`cmd` scripting for spoofing your hardware-id with random-num to avoid another series of ban in online games/network etc for whatever reason you might involve with (h@cking etc)
+`cmd` scripting for spoofing your hardware-id with random-num to avoid another series of ban in online games/network etc for whatever reason you might involve with
 
 use `wmic diskdrive/memorychip/baseboard get serialnumber` to double check the new serial num.
+
+ps: for educational purposes only.
 
 # current features 
 1) re-generate new serial numbers for HDD/SDD, RAM and MOBO baseboard.
